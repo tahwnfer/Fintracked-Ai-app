@@ -48,7 +48,7 @@ async function DashboardContent({ searchParams }: DashboardPageProps) {
       <Sidebar />
 
       <div className="flex-1 overflow-y-auto">
-        <Header />
+        <Header  />
 
         <div className="p-8 max-w-7xl mx-auto space-y-8">
           <section className="grid grid-cols-1 lg:grid-cols-3 gap-6">
